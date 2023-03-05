@@ -1,0 +1,314 @@
+{
+    "1": {
+        "regist": "575",
+        "date": [
+            "1895",
+            "11",
+            "26"
+        ],
+        "name": "Augusto Julio Cunha Azevedo",
+        "father": "Zeferino Antonio Cunha Azevedo",
+        "mother": "Carlota Silva",
+        "family": []
+    },
+    "2": {
+        "regist": "582",
+        "date": [
+            "1684",
+            "06",
+            "08"
+        ],
+        "name": "Paulo Pereira",
+        "father": "Domingos Goncalves",
+        "mother": "Maria Francisca",
+        "family": []
+    },
+    "3": {
+        "regist": "569",
+        "date": [
+            "1866",
+            "03",
+            "27"
+        ],
+        "name": "Aureliano Augusto Goncalves Sousa",
+        "father": "Francisco Jose Goncalves Sousa",
+        "mother": "Miquelina Luisa Sousa",
+        "family": []
+    },
+    "4": {
+        "regist": "576",
+        "date": [
+            "1896",
+            "11",
+            "24"
+        ],
+        "name": "Avelino Jose Marinho Cruz",
+        "father": "Joao Manuel Marinho Cruz",
+        "mother": "Ana Joaquina",
+        "family": [
+            {
+                "name": [
+                    "Jose Rodrigo Marinho Cruz"
+                ],
+                "member": "Tio Paterno",
+                "proc": "5048"
+            }
+        ]
+    },
+    "5": {
+        "regist": "579",
+        "date": [
+            "1902",
+            "08",
+            "12"
+        ],
+        "name": "Augusto Dantas Barbeitos",
+        "father": "Antonio Jose Barbeitos",
+        "mother": "Maria Dores Fernandes",
+        "family": []
+    },
+    "6": {
+        "regist": "578",
+        "date": [
+            "1900",
+            "11",
+            "12"
+        ],
+        "name": "Avelino Jose Sousa",
+        "father": "Pedro Sousa",
+        "mother": "Maria Soares",
+        "family": []
+    },
+    "7": {
+        "regist": "572",
+        "date": [
+            "1886",
+            "03",
+            "17"
+        ],
+        "name": "Avelino Lopes Pojeira",
+        "father": "Manuel Lopes Pojeira",
+        "mother": "Ana Fernandes",
+        "family": [
+            {
+                "name": [
+                    "Constantino Lopes Pojeira"
+                ],
+                "member": "Irmao",
+                "proc": "32940"
+            }
+        ]
+    },
+    "8": {
+        "regist": "571",
+        "date": [
+            "1881",
+            "01",
+            "21"
+        ],
+        "name": "Artur Mamede Silva Ferreira",
+        "father": "",
+        "mother": "Rosa Maria Silva,Solteira",
+        "family": []
+    },
+    "9": {
+        "regist": "573",
+        "date": [
+            "1889",
+            "01",
+            "12"
+        ],
+        "name": "Avelino Jose Cunha Meireles",
+        "father": "Felisberto Cunha Meireles",
+        "mother": "Rosa Maria Mota",
+        "family": []
+    },
+    "10": {
+        "regist": "581",
+        "date": [
+            "1908",
+            "05",
+            "23"
+        ],
+        "name": "Avelino Teixeira Andrade",
+        "father": "Albino Jose Andrade",
+        "mother": "Ana Teixeira",
+        "family": [
+            {
+                "name": [
+                    "Jose Teixeira Andrade"
+                ],
+                "member": "Irmao",
+                "proc": "5413"
+            }
+        ]
+    },
+    "11": {
+        "regist": "567",
+        "date": [
+            "1862",
+            "07",
+            "07"
+        ],
+        "name": "Joaquim Fausto Sousa Guimaraes",
+        "father": "Jose Sousa Guimaraes",
+        "mother": "Flora Emiliana Sousa Guimaraes",
+        "family": [
+            {
+                "name": [
+                    "Abilio Jose Sousa Guimaraes"
+                ],
+                "member": "Irmao",
+                "proc": "13046"
+            }
+        ]
+    },
+    "12": {
+        "regist": "580",
+        "date": [
+            "1906",
+            "05",
+            "29"
+        ],
+        "name": "Avelino Mota",
+        "father": "Manuel Antonio Mota",
+        "mother": "Albina Goncalves Cerqueira",
+        "family": []
+    },
+    "13": {
+        "regist": "564",
+        "date": [
+            "1852",
+            "09",
+            "03"
+        ],
+        "name": "Manuel Antonio Salgado Afonso",
+        "father": "Manuel Afonso Salgado",
+        "mother": "Maria Rosa Dias Ferreira",
+        "family": []
+    },
+    "14": {
+        "regist": "570",
+        "date": [
+            "1872",
+            "03",
+            "26"
+        ],
+        "name": "Augusto Costa Ferreira Machado",
+        "father": "Bernardo Costa Fernandes Machado",
+        "mother": "Ermelinda Augusta Ferreira",
+        "family": []
+    },
+    "15": {
+        "regist": "574",
+        "date": [
+            "1889",
+            "11",
+            "21"
+        ],
+        "name": "Augusto Moura Vasconcelos",
+        "father": "Joaquim Augusto Moura Vasconcelos",
+        "mother": "Ana Joaquina Conceicao Fernandes Matos",
+        "family": [
+            {
+                "name": [
+                    "Antonio Augusto Moura Vasconcelos"
+                ],
+                "member": "Irmao",
+                "proc": "13169"
+            }
+        ]
+    },
+    "16": {
+        "regist": "307",
+        "date": [
+            "1733",
+            "02",
+            "19"
+        ],
+        "name": "Sebastiao Pita Castro",
+        "father": "Inacio Pita Leite",
+        "mother": "Isabel Antonia Castro",
+        "family": [
+            {
+                "name": [
+                    "    Bernardo Luis Castro Lemos"
+                ],
+                "member": "Primo",
+                "proc": "6786"
+            }
+        ]
+    },
+    "17": {
+        "regist": "357",
+        "date": [
+            "1777",
+            "09",
+            "05"
+        ],
+        "name": "Jose Maria Monteiro",
+        "father": "Daniel Antonio Monteiro",
+        "mother": "Brites Luisa Silva",
+        "family": [
+            {
+                "name": [
+                    "   Antonio Jose Monteiro"
+                ],
+                "member": "Irmao",
+                "proc": "7797"
+            }
+        ]
+    },
+    "18": {
+        "regist": "23",
+        "date": [
+            "1689",
+            "11",
+            "22"
+        ],
+        "name": "Manuel Vilela",
+        "father": "Belchior Vilela",
+        "mother": "Angela Antonia",
+        "family": [
+            {
+                "name": [
+                    "Francisco Vilela"
+                ],
+                "member": "Irmao",
+                "proc": "5650"
+            }
+        ]
+    },
+    "19": {
+        "regist": "277",
+        "date": [
+            "1730",
+            "10",
+            "31"
+        ],
+        "name": "Manuel Alvares",
+        "father": "Pedro Alvares",
+        "mother": "Ana Rodrigues",
+        "family": [
+            {
+                "name": [
+                    "  Adriano Rodrigues"
+                ],
+                "member": "Irmao",
+                "proc": "6263"
+            }
+        ]
+    },
+    "20": {
+        "regist": "577",
+        "date": [
+            "1685",
+            "08",
+            "22"
+        ],
+        "name": "Francisco Araujo",
+        "father": "Antonio Araujo",
+        "mother": "Isabel Afonso",
+        "family": []
+    }
+}
